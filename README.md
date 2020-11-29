@@ -5,7 +5,7 @@ StdID | Name
 ------------ | -------------
 **62378** | **Arbaz Hussain** <!--this is the group leader in bold-->
 61504 | Bilal laeeq
-59285 | Muhammad Sufyan
+59285 | Muhammad Sufiyan
 
 
 ## Description ##
