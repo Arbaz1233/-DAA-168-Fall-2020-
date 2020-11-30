@@ -1,4 +1,3 @@
-Report on Brute Force Algorithm 
 
 What is Brute Force Algorithm?
 Brute Force Algorithms are exactly what they sound like – straightforward methods of solving a problem that rely on sheer computing power and trying every possibility rather than advanced techniques to improve efficiency. For example, imagine you have a small padlock with 4 digits.
