@@ -7,3 +7,5 @@ Brute Force Algorithm is easy to implement code are easily available. But the co
 
 Conclusion:
 Brute force search is the most common search algorithm as it does not require any domain knowledge, all that is required is a state description, legal operators, the initial state and the description of a goal state. It does not improve the performance and completely relies on the computing power to try out possible combinations.
+
+link : https://daa20.000webhostapp.com/
